@@ -1,4 +1,4 @@
-# Gefx-Generator
+# SparkGraphxGephi
 Generate file .gexf from database Mongo and Hbase using Graphx Library
 This use rabbit mq as queue message for run the job
 
