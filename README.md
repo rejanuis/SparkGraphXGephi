@@ -4,7 +4,7 @@ This use rabbit mq as queue message for run the job
 
 ### HBase
   * HBase table name: sna-graph
-  * HBase row id: hashedid_typessource_date (example: 007d752a62104d6426079747d44400cb_|_TW_|_20181211
+  * HBase row id: hashedpostid_typessource_date (example: 007d752a62104d6426079747d44400cb_|_|TW|_|_20181211)
   * HBase column family name: 0
   * HBase column qualifier name: hashedpost id (example: ce49c16ecd29169ba1b118a88464cbdf)
 
