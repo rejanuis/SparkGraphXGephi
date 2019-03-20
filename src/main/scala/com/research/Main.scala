@@ -9,6 +9,8 @@ import java.nio.charset.StandardCharsets
 
 import com.rabbitmq.client.AMQP._
 import com.rabbitmq.client.{ConnectionFactory, DefaultConsumer, Envelope}
+import com.research.spark.{SparkGephiHbase, SparkGephiMongo}
+import com.research.util.{AppUtil, Rabbitmq}
 import org.json.JSONObject
 
 
