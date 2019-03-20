@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1482b3a8-e110-4111-a01e-daaec7c8a23d" name="Default Changelist" comment="" />
+    <list default="true" id="1482b3a8-e110-4111-a01e-daaec7c8a23d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/Main.scala">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/MongoConn.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="464">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -29,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/SparkGephiMongo.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2612">
+            <state relative-caret-position="675">
               <caret line="45" column="69" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
               <folding>
                 <element signature="e#151#172#0" expanded="true" />
@@ -38,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -71,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/SparkGephiHbase.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1557">
+            <state relative-caret-position="1017">
               <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
               <folding>
                 <element signature="e#28#49#0" expanded="true" />
@@ -112,19 +119,27 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2.2.0</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2.2.2</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/com/research/util/Rabbitmq.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/research/spark/SparkGephiHbase.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/research/spark/MongoConn.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/research/spark/HbaseConn.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/research/spark/SparkGephiMongo.scala" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -223,7 +238,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553075468874" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553076091938" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.73532796" />
@@ -293,7 +308,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297414" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.32982844" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.19977863" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -305,13 +320,6 @@
     <entry file="file://$PROJECT_DIR$/src/src/main/scala/org/ebdesk/util/AppUtil.scala">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2085">
-          <caret line="139" column="31" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/Main.scala">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -322,13 +330,6 @@
           <folding>
             <element signature="e#28#61#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/MongoConn.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -349,16 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/SparkGephiHbase.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1557">
-          <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
-          <folding>
-            <element signature="e#28#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/util/Rabbitmq.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -375,7 +366,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/SparkGephiMongo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2612">
+        <state relative-caret-position="675">
           <caret line="45" column="69" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
           <folding>
             <element signature="e#151#172#0" expanded="true" />
@@ -383,10 +374,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/SparkGephiHbase.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1017">
+          <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+          <folding>
+            <element signature="e#28#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/research/spark/MongoConn.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
         </state>
       </provider>
     </entry>
